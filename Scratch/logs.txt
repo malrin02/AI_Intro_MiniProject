@@ -1,0 +1,36 @@
+Fashion MNIST Scratch CNN Training Log
+==================================================
+Epoch [01/30] Iter [468/14040] LR: 0.001000, Loss: 0.4338, Train Acc: 90.40%, Test Acc: 89.01%
+Epoch [02/30] Iter [936/14040] LR: 0.001000, Loss: 0.2570, Train Acc: 92.41%, Test Acc: 90.61%
+Epoch [03/30] Iter [1404/14040] LR: 0.001000, Loss: 0.2192, Train Acc: 93.92%, Test Acc: 91.12%
+Epoch [04/30] Iter [1872/14040] LR: 0.001000, Loss: 0.1856, Train Acc: 94.71%, Test Acc: 91.79%
+Epoch [05/30] Iter [2340/14040] LR: 0.001000, Loss: 0.1736, Train Acc: 94.26%, Test Acc: 90.89%
+Epoch [06/30] Iter [2808/14040] LR: 0.001000, Loss: 0.1547, Train Acc: 96.04%, Test Acc: 92.40%
+Epoch [07/30] Iter [3276/14040] LR: 0.001000, Loss: 0.1484, Train Acc: 96.31%, Test Acc: 91.99%
+Epoch [08/30] Iter [3744/14040] LR: 0.001000, Loss: 0.1367, Train Acc: 97.00%, Test Acc: 92.32%
+Epoch [09/30] Iter [4212/14040] LR: 0.001000, Loss: 0.1295, Train Acc: 96.92%, Test Acc: 91.93%
+Epoch [10/30] Iter [4680/14040] LR: 0.001000, Loss: 0.1234, Train Acc: 97.61%, Test Acc: 92.45%
+Epoch [11/30] Iter [5148/14040] LR: 0.001000, Loss: 0.1182, Train Acc: 97.77%, Test Acc: 92.28%
+Epoch [12/30] Iter [5616/14040] LR: 0.001000, Loss: 0.1187, Train Acc: 98.13%, Test Acc: 92.17%
+Epoch [13/30] Iter [6084/14040] LR: 0.001000, Loss: 0.1140, Train Acc: 98.32%, Test Acc: 92.48%
+Epoch [14/30] Iter [6552/14040] LR: 0.001000, Loss: 0.1112, Train Acc: 98.57%, Test Acc: 92.34%
+Epoch [15/30] Iter [7020/14040] LR: 0.001000, Loss: 0.1084, Train Acc: 98.60%, Test Acc: 92.73%
+Epoch [16/30] Iter [7488/14040] LR: 0.001000, Loss: 0.1094, Train Acc: 98.78%, Test Acc: 92.74%
+Epoch [17/30] Iter [7956/14040] LR: 0.001000, Loss: 0.1065, Train Acc: 98.88%, Test Acc: 92.55%
+Epoch [18/30] Iter [8424/14040] LR: 0.000300, Loss: 0.1067, Train Acc: 98.87%, Test Acc: 92.28%
+Epoch [19/30] Iter [8892/14040] LR: 0.000300, Loss: 0.0985, Train Acc: 99.67%, Test Acc: 92.91%
+Epoch [20/30] Iter [9360/14040] LR: 0.000300, Loss: 0.0898, Train Acc: 99.79%, Test Acc: 93.02%
+Epoch [21/30] Iter [9828/14040] LR: 0.000300, Loss: 0.0847, Train Acc: 99.89%, Test Acc: 93.16%
+Epoch [22/30] Iter [10296/14040] LR: 0.000300, Loss: 0.0806, Train Acc: 99.91%, Test Acc: 93.19%
+Epoch [23/30] Iter [10764/14040] LR: 0.000300, Loss: 0.0770, Train Acc: 99.90%, Test Acc: 93.15%
+Epoch [24/30] Iter [11232/14040] LR: 0.000300, Loss: 0.0744, Train Acc: 99.93%, Test Acc: 93.07%
+Epoch [25/30] Iter [11700/14040] LR: 0.000090, Loss: 0.0716, Train Acc: 99.94%, Test Acc: 93.33%
+Epoch [26/30] Iter [12168/14040] LR: 0.000090, Loss: 0.0690, Train Acc: 100.00%, Test Acc: 93.27%
+Epoch [27/30] Iter [12636/14040] LR: 0.000090, Loss: 0.0675, Train Acc: 100.00%, Test Acc: 93.32%
+Epoch [28/30] Iter [13104/14040] LR: 0.000090, Loss: 0.0663, Train Acc: 100.00%, Test Acc: 93.28%
+Epoch [29/30] Iter [13572/14040] LR: 0.000090, Loss: 0.0651, Train Acc: 100.00%, Test Acc: 93.38%
+Epoch [30/30] Iter [14040/14040] LR: 0.000090, Loss: 0.0640, Train Acc: 100.00%, Test Acc: 93.31%
+
+Final Result
+Train Accuracy: 100.00%
+Test Accuracy: 93.31%

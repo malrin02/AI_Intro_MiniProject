@@ -1,0 +1,36 @@
+Fashion MNIST PyTorch CNN Training Log
+==================================================
+Epoch [01/30] LR: 0.000997, Train Loss: 0.5799, Train Acc: 87.17%, Test Loss: 0.3516, Test Acc: 86.74%
+Epoch [02/30] LR: 0.000989, Train Loss: 0.3677, Train Acc: 89.66%, Test Loss: 0.2936, Test Acc: 89.20%
+Epoch [03/30] LR: 0.000976, Train Loss: 0.3172, Train Acc: 90.79%, Test Loss: 0.2747, Test Acc: 90.31%
+Epoch [04/30] LR: 0.000957, Train Loss: 0.2919, Train Acc: 91.40%, Test Loss: 0.2584, Test Acc: 90.50%
+Epoch [05/30] LR: 0.000934, Train Loss: 0.2672, Train Acc: 92.11%, Test Loss: 0.2416, Test Acc: 91.13%
+Epoch [06/30] LR: 0.000905, Train Loss: 0.2561, Train Acc: 92.02%, Test Loss: 0.2414, Test Acc: 91.14%
+Epoch [07/30] LR: 0.000873, Train Loss: 0.2449, Train Acc: 91.89%, Test Loss: 0.2473, Test Acc: 91.11%
+Epoch [08/30] LR: 0.000836, Train Loss: 0.2328, Train Acc: 93.29%, Test Loss: 0.2130, Test Acc: 92.38%
+Epoch [09/30] LR: 0.000796, Train Loss: 0.2218, Train Acc: 93.56%, Test Loss: 0.2103, Test Acc: 92.25%
+Epoch [10/30] LR: 0.000753, Train Loss: 0.2135, Train Acc: 93.46%, Test Loss: 0.2123, Test Acc: 92.37%
+Epoch [11/30] LR: 0.000706, Train Loss: 0.2055, Train Acc: 93.60%, Test Loss: 0.2116, Test Acc: 92.36%
+Epoch [12/30] LR: 0.000658, Train Loss: 0.1996, Train Acc: 94.18%, Test Loss: 0.2093, Test Acc: 92.77%
+Epoch [13/30] LR: 0.000608, Train Loss: 0.1903, Train Acc: 94.19%, Test Loss: 0.2108, Test Acc: 92.62%
+Epoch [14/30] LR: 0.000557, Train Loss: 0.1856, Train Acc: 94.75%, Test Loss: 0.1960, Test Acc: 93.25%
+Epoch [15/30] LR: 0.000505, Train Loss: 0.1791, Train Acc: 94.76%, Test Loss: 0.1960, Test Acc: 92.94%
+Epoch [16/30] LR: 0.000453, Train Loss: 0.1738, Train Acc: 94.10%, Test Loss: 0.2045, Test Acc: 92.70%
+Epoch [17/30] LR: 0.000402, Train Loss: 0.1670, Train Acc: 95.17%, Test Loss: 0.1857, Test Acc: 93.60%
+Epoch [18/30] LR: 0.000352, Train Loss: 0.1597, Train Acc: 95.42%, Test Loss: 0.1799, Test Acc: 93.49%
+Epoch [19/30] LR: 0.000304, Train Loss: 0.1568, Train Acc: 95.64%, Test Loss: 0.1784, Test Acc: 94.04%
+Epoch [20/30] LR: 0.000258, Train Loss: 0.1511, Train Acc: 95.66%, Test Loss: 0.1768, Test Acc: 93.75%
+Epoch [21/30] LR: 0.000214, Train Loss: 0.1459, Train Acc: 95.95%, Test Loss: 0.1712, Test Acc: 93.96%
+Epoch [22/30] LR: 0.000174, Train Loss: 0.1414, Train Acc: 96.04%, Test Loss: 0.1742, Test Acc: 93.89%
+Epoch [23/30] LR: 0.000137, Train Loss: 0.1381, Train Acc: 96.21%, Test Loss: 0.1734, Test Acc: 93.95%
+Epoch [24/30] LR: 0.000105, Train Loss: 0.1352, Train Acc: 96.20%, Test Loss: 0.1729, Test Acc: 94.16%
+Epoch [25/30] LR: 0.000076, Train Loss: 0.1302, Train Acc: 96.33%, Test Loss: 0.1685, Test Acc: 94.19%
+Epoch [26/30] LR: 0.000053, Train Loss: 0.1285, Train Acc: 96.31%, Test Loss: 0.1688, Test Acc: 94.19%
+Epoch [27/30] LR: 0.000034, Train Loss: 0.1264, Train Acc: 96.44%, Test Loss: 0.1700, Test Acc: 94.27%
+Epoch [28/30] LR: 0.000021, Train Loss: 0.1258, Train Acc: 96.49%, Test Loss: 0.1701, Test Acc: 94.26%
+Epoch [29/30] LR: 0.000013, Train Loss: 0.1233, Train Acc: 96.49%, Test Loss: 0.1690, Test Acc: 94.31%
+Epoch [30/30] LR: 0.000010, Train Loss: 0.1208, Train Acc: 96.47%, Test Loss: 0.1696, Test Acc: 94.25%
+
+Final Result
+Train Accuracy: 96.47%
+Test Accuracy: 94.25%
